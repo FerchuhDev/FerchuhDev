@@ -3,7 +3,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <b>About me</b>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
+<br>
   
 - 👨🏽‍💻 I’m a Junior Frontend Developer, graduated with a degree in Programming.
 - 🌱 I’m currently sharpening my skills in Modern javaScript and exploring practical AI integrations for web dev.
