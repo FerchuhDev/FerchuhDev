@@ -35,18 +35,19 @@
   ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)&nbsp;
   
 
-
-
-
-
-
-
-
-
-<br></br>
-
 <br></br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<p align="center">
+  <a href="https://github.com/FerchuhDev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerchuhDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/FerchuhDev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerchuhDev&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
 
