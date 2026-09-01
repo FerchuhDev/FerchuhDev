@@ -6,7 +6,7 @@
 <br>
   
 - 👨🏽‍💻 I’m a Junior Frontend Developer, graduated with a degree in Programming.
-- 🌱 I’m currently sharpening my skills in Modern javaScript and exploring practical AI integrations for web dev.
+- 🌱 I’m currently sharpening my skills in Modern javaScript and exploring AI integrations.
 - 🤔 My interest lies in modern frontend architecture, UI/UX implementation, and clean code practices.
 
 <br></br>
